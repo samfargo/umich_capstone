@@ -1,7 +1,7 @@
 
 # Fiscal AI
 
-This project provides an interface to learn about public companies using their quarterly earnings call transcripts. It takes a query, a company ticker, and a quarter/year pair as input and returns a response that attempts to answer the query based on the requested transcript. 
+This project provides an interface to chat with earnings call transcripts. It takes a query, a company ticker, and a quarter/year pair as input and returns a response that attempts to answer the query based on the requested transcript.
     
 ## Getting Started
 
