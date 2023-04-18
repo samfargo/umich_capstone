@@ -32,3 +32,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+Dislaimer: Not financial advice.
+Data access statement can be found [here](https://site.financialmodelingprep.com/terms-of-service).
